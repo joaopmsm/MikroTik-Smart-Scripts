@@ -86,7 +86,7 @@ Antes de usar, altere:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor João Pedro de Melo Silva Moisés
 
 Projeto para estudo e aplicação prática em redes MikroTik.
 
