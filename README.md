@@ -1,0 +1,1 @@
+Scripts básicos para RouterOS
